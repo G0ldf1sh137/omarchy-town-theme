@@ -1,5 +1,7 @@
 # Town
 
+![preview](preview.jpg)
+
 Warm town/cityscape Omarchy theme.
 
 An [Aether](https://github.com/tobi/aether)-generated theme for [Omarchy](https://omarchy.org).
