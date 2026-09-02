@@ -1,6 +1,6 @@
 # Town
 
-![preview](preview.jpg)
+![preview](preview.png)
 
 Warm town/cityscape Omarchy theme.
 
